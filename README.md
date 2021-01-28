@@ -4,7 +4,7 @@
 
 ### 主要工作流程
 
-<img src="./img/work.png" style="zoom: 50%;" />
+![](./img/work.png)
 
 ### 功能简要说明
 
