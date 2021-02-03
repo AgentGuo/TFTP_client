@@ -16,7 +16,7 @@
 
 ### GUI版本:+1:
 
-> 使用Qt画的图形界面，把代码, pro, ui文件拉进去就能跑 
+> 使用Qt画的图形界面，把代码, pro, ui文件拉进去就能跑 :smiley:
 
 [点我](https://github.com/AgentGuo/TFTP_client/tree/main/gui_client)
 
